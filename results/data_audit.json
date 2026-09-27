@@ -1,0 +1,17 @@
+{
+  "rows": 1025,
+  "unique_rows": 302,
+  "extra_duplicate_rows": 723,
+  "missing_cells": 0,
+  "class_counts_raw": {
+    "0": 499,
+    "1": 526
+  },
+  "class_counts_unique": {
+    "0": 138,
+    "1": 164
+  },
+  "ca_4_rows": 18,
+  "thal_0_rows": 7,
+  "sha256": "ddb2996b2f4db2e00aad13f4518200179ff69f79093838e3c21ffa672ebec0f1"
+}
