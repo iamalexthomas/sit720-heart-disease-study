@@ -7,3 +7,9 @@ __pycache__/
 .env.*
 *.log
 ~$*.docx
+
+# Local submission documents and their formatting helpers.
+/report/
+/tools/build_report.py
+/tools/export_docx.py
+/tools/package_submission.py
